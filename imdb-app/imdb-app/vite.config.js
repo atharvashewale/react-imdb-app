@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/React-IMDB-App/'
+  base: '/react-imdb-app/'
 })
